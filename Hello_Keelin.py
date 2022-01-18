@@ -2,12 +2,12 @@
 print("Hello world")
 print(5 / 8)
 print (7+10)
-print(10/3, 3/10) # print numerical divisions
-print(10//3, 3//10) # print quotients from divisions
-print(10%3, 3%10) # print remainders from divisions
+print(9/3, 3/9) # print numerical divisions
+print(6//3, 3//6) # print quotients from divisions
+print(3%3, 3%3) # print remainders from divisions
 
 #%%
-astring = "Thank you"
+astring = "Hello!"
 anum = 3.14159265358979323846
 cnt = 1
 # Many different ways to print out the same line
